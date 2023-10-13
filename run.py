@@ -1,7 +1,7 @@
 # YAHAHAHAA MAU RECODD YA TOLOL?
 # TINGGAL PAKE AJA UDAH GAUSAH BANYAK TINGKAH
 import os
-from SSF import run
+from SSF import menu
 
 os.system('git pull')
-run.Menu_Tools()
+menu.Menu_Tools()
